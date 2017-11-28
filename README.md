@@ -25,6 +25,10 @@ Sit back and relax! After installation of driver it will ask to reboot pc:
 
 Enter 1 to reboot
 
+    1
+
 Enter 2 to reboot later.
+
+    2
 
 Enjoy your wifi !
