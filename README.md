@@ -16,6 +16,8 @@ run in terminal:
     
     cd rtl8723be-wifi-fix
     
+    sudo chmod +x rtl8723be.sh
+    
     ./rtl8723be.sh
     
     exit
