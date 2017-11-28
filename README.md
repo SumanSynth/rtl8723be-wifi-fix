@@ -5,8 +5,6 @@ This repository provides an automated fix for the problem by installing the late
 
 ## Important 
 Disable secure boot in BIOS to run wifi card driver properly.
-edit "rtl8723be.sh" to change antenna selection, default it will set antenna 2, for my laptop(15ab522tx)
-if antenna 2 doesn't work, set ant_sel=1 .
 
 ## How to install
 run in terminal:
@@ -32,3 +30,10 @@ Enter 2 to reboot later:
     2
 
 Enjoy your wifi !
+
+
+## Still wifi is not working
+
+Edit "rtl8723be.sh" to change antenna selection, default it will set antenna 2, for my laptop(15ab522tx)
+
+if antenna 2 doesn't work, set ant_sel=1 .
