@@ -20,5 +20,11 @@ run in terminal:
     
     ./rtl8723be.sh
     
-    exit
     
+Sit back and relax! After installation of driver it will ask to reboot pc:
+
+Enter 1 to reboot
+
+Enter 2 to reboot later.
+
+Enjoy your wifi !
