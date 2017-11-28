@@ -37,3 +37,5 @@ Enjoy your wifi !
 Edit "rtl8723be.sh" to change antenna selection, default it will set antenna 2, for my laptop(15ab522tx)
 
 if antenna 2 doesn't work, set ant_sel=1 .
+
+![Alt text](image.png?raw=true "Optional Title")
