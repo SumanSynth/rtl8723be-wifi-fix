@@ -38,4 +38,4 @@ Edit "rtl8723be.sh" to change antenna selection, default it will set antenna 2, 
 
 if antenna 2 doesn't work, set ant_sel=1 .
 
-![Alt text](image.png?raw=true "Optional Title")
+![Alt text](rtl8723be-wifi-fix/image?raw=true "Optional Title")
