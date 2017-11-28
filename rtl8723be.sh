@@ -7,7 +7,6 @@ make
 sudo make install
 sudo modprobe -r rtl8723be
 sudo modprobe rtl8723be ant_sel=2
-#sudo modprobe rtl8723be ant_sel=1
 iwlist scan | egrep -i 'ssid|level'
 echo "options rtl8723be ant_sel=2" | sudo tee -a /etc/modprobe.d/rtl8723be.conf
 echo "done!"
