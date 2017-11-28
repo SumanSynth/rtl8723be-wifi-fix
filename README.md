@@ -10,6 +10,8 @@ if antenna 2 doesn't work, set ant_sel=1 .
 
 ## How to install
 run in terminal:
+
+
     git clone https://github.com/sumancvb/rtl8723be-wifi-fix.git
     
     cd rtl8723be-wifi-fix
