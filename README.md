@@ -38,5 +38,12 @@ Edit "rtl8723be.sh" to change antenna selection, default it will set antenna 2, 
 
 if antenna 2 doesn't work, set ant_sel=1 .
 
+    sudo nano rtl8723be.sh
+
 ![Screenshot](image.png)
+
+After editing save file using ctrl+O 
+Exit ctrl+x and run:
+
+    ./rtl8723be.sh
 
